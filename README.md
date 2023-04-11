@@ -29,28 +29,34 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
 - 03.05.23
   - Angela & Lara: Pitching Training -- Social Media Project
 - 09.05.23
-  - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, 14:15-15:45)
+  ```diff
+  - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, Tuesday 23/05/09, 14:15-15:45)
+  ```
 - 17.05.23
   - Eleni-Ira Panourgia: "Sound, Art and Ecology -- Practice #1"
 - 24.05.23 
   - Eleni-Ira Panourgia: "Sound, Art and Ecology -- Practice #2"
 - 31.05.23 
   - Ula Przybylska et al.: "SWARM" (Online)
-  - CTech Projects
+  - *CTech Projects*
 - 07.06.23 
   - Anna Xambo: "About NIME, NIMEness, and Speculative Futures" (Online)
 - 14.06.23 
   - Lisa Passing: "Theaterprojekt", 
-  - CTech Projects or CC1 Projektpräsentationen
+  - *CTech Projects or CC1 Projektpräsentationen*
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
   - Knuth Möde: "Pre-Viz with Unreal Engine"
 - 27.06.23 
-  - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, 14:15-15:45)
+  ```diff
+  - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/06/27, 14:15-15:45)
+  ```
 - 05.07.23 
+  ```diff
   - **Summerparty** => Class 22/23 is responsible for the event!!
+  ```
 - 12.07.23
-  - CTech Projects
+  - *CTech Projects*
 
 
 ## CTech Attendance and Presentations
