@@ -16,7 +16,6 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
 ## Organization 
 
 - Wednesdays 16:00 h - 17:30 h
-- Module 6 | 1/1.5 SWS | 1/1.5 ECTS
 
 ## Syllabus
 
