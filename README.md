@@ -68,4 +68,4 @@ CTech **Class 21/22** and **Class 22/23** please check mark your attendances in 
 
 The Creative Technologies II (Module 6) is a graded module. In order to pass the module you have to give a presentation in PPR about the project or projects that you have worked on. The presentation has to be 45 mins maximum and should provide insight into your work, the presentation itself is not going to be graded but it should still be well structured and presented ; )
 
-See the project outline for more details. Get in touch with Angela or Lena in order to fix a presentation date as well as a short check-in time to discuss the requirements for the grade unless you are fully aware!
+See the [project guidelines](https://github.com/ctechfilmuniversity/ctech_org/blob/main/teaching/ctech_project_guideline.pdf) for more details. Get in touch with Angela or Lena in order to fix a presentation date as well as a short check-in time to discuss the requirements for the grade unless you are fully aware!
