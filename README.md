@@ -41,7 +41,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
 - 07.06.23 
   - Anna Xambo: "About NIME, NIMEness, and Speculative Futures" (Online)
 - 14.06.23 
-  - Lisa Passing: "Theaterprojekt", 
+  - Lisa Passing: "Ghostlike"
   - *CTech Projects or CC1 Projektpräsentationen*
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
