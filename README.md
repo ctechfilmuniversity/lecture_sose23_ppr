@@ -51,11 +51,11 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/06/27, 14:15-15:45)
   ```
 - 05.07.23 
+  - CC1 Presentations
+- 12.07.23
   ```diff
   - **Summerparty** => Class 22/23 is responsible for the event!!
   ```
-- 12.07.23
-  - *CTech Projects*
 
 
 ## CTech Attendance and Presentations
