@@ -43,10 +43,9 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Anna Xambo: "About NIME, NIMEness, and Speculative Futures" (Online)
 - 14.06.23 
   - Lisa Passing: "Ghostlike"
-  - *CTech Projects or CC1 Projektpräsentationen*
+  - Knuth Möde: "Pre-Viz with Unreal Engine"
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
-  - Knuth Möde: "Pre-Viz with Unreal Engine"
 - 27.06.23 
   ```diff
   - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/06/27, 14:15-15:45)
