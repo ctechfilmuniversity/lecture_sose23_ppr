@@ -33,9 +33,9 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, Tuesday 23/05/09, 14:15-15:45)
   ```
 - 17.05.23
-  - Eleni-Ira Panourgia: "Sound, Art and Ecology -- Practice #1"
+  - [Eleni-Ira Panourgia](https://www.eleniirapanourgia.com): "Sound, Art and Ecology -- Practice #1"
 - 24.05.23 
-  - Eleni-Ira Panourgia: "Sound, Art and Ecology -- Practice #2"
+  - [Eleni-Ira Panourgia](https://www.eleniirapanourgia.com): "Sound, Art and Ecology -- Practice #2"
 - 31.05.23 
   - Ula Przybylska et al.: "SWARM" (Online, Zoomlink will be shared via Kerio Calendar)
   - *Susanne Richter: mowee (EXIST)*
