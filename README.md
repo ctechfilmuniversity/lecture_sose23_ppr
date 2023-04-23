@@ -24,7 +24,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Sehsüchte coordination (Andreea, Vivien)
   - Mandy Peterat: "GEÄST"
 - 26.04.23
-  - Christine Reeh-Peters: "Fabulation for Future"
+  - Christine Reeh-Peters: [Fabulation for Future](https://www.fabulationforfuture.net)
 - 03.05.23
   - Angela & Lara: Pitching Training -- Social Media Project
   - *Mortimer Cerny: 3 Sat Abschlussfilm*
@@ -37,10 +37,10 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
 - 24.05.23 
   - Eleni-Ira Panourgia: "Sound, Art and Ecology -- Practice #2"
 - 31.05.23 
-  - Ula Przybylska et al.: "SWARM" (Online)
+  - Ula Przybylska et al.: "SWARM" (Online, Zoomlink will be shared via Kerio Calendar)
   - *Susanne Richter: mowee (EXIST)*
 - 07.06.23 
-  - Anna Xambo: "About NIME, NIMEness, and Speculative Futures" (Online)
+  - [Anna Xambo](http://annaxambo.me): "About NIME, NIMEness, and Speculative Futures" (Online, Zoomlink will be shared via Kerio Calendar)
 - 14.06.23 
   - Lisa Passing: "Ghostlike"
   - Knuth Möde: "Pre-Viz with Unreal Engine"
