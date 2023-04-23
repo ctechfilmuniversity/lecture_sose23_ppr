@@ -27,6 +27,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Christine Reeh-Peters: "Fabulation for Future"
 - 03.05.23
   - Angela & Lara: Pitching Training -- Social Media Project
+  - *Mortimer Cerny: 3 Sat Abschlussfilm*
 - 09.05.23
   ```diff
   - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, Tuesday 23/05/09, 14:15-15:45)
@@ -37,7 +38,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Eleni-Ira Panourgia: "Sound, Art and Ecology -- Practice #2"
 - 31.05.23 
   - Ula Przybylska et al.: "SWARM" (Online)
-  - *CTech Projects*
+  - *Susanne Richter: mowee (EXIST)*
 - 07.06.23 
   - Anna Xambo: "About NIME, NIMEness, and Speculative Futures" (Online)
 - 14.06.23 
