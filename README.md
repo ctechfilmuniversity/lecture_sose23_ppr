@@ -27,7 +27,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Christine Reeh-Peters: [Fabulation for Future](https://www.fabulationforfuture.net)
 - 03.05.23
   - Angela & Lara: Pitching Training -- Social Media Project
-  - *Mortimer Cerny: 3 Sat Abschlussfilm*
+  - Mortimer Cerny: 3 Sat Abschlussfilm
 - 09.05.23
   ```diff
   - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, Tuesday 23/05/09, 14:15-15:45)
