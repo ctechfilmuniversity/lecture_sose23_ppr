@@ -32,8 +32,6 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   ```diff
   - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, Tuesday 23/05/09, 14:15-15:45)
   ```
-- 10.05.23
-  - TBD: Pitching Training Part II instead of 28.06.23
 - 17.05.23
   - [Eleni-Ira Panourgia](https://www.eleniirapanourgia.com): "Sound, Art and Ecology -- Practice #1"
 - 24.05.23 
@@ -43,7 +41,6 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Susanne Richter: mowee (EXIST)
 - 07.06.23 
   - [Anna Xambo](http://annaxambo.me): "About NIME, NIMEness, and Speculative Futures" (Online, Zoomlink will be shared via Kerio Calendar)
-  - *CC1 Project presentations*
 - 14.06.23 
   - Lisa Passing: "Ghostlike"
   - Knuth Möde: "Pre-Viz with Unreal Engine"
@@ -51,7 +48,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
   - Antonia Nestler: ["Rekonstruktionen"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)
 - 28.06.23 
-  - TBD
+  - CC1 Projektpräsentationen / Project Pitches
 - 04.07.23 
   ```diff
   - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/07/04, 14:15-15:45)
