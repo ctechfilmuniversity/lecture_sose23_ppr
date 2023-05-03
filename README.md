@@ -41,13 +41,14 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Susanne Richter: mowee (EXIST)
 - 07.06.23 
   - [Anna Xambo](http://annaxambo.me): "About NIME, NIMEness, and Speculative Futures" (Online, Zoomlink will be shared via Kerio Calendar)
+  - *CC1 Project presentations*
 - 14.06.23 
   - Lisa Passing: "Ghostlike"
   - Knuth Möde: "Pre-Viz with Unreal Engine"
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
 - 28.06.23 
-  - CC1 Project presentations
+  - *CC1 Project presentations*
 - 04.07.23 
   ```diff
   - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/07/04, 14:15-15:45)
