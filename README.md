@@ -38,7 +38,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - [Eleni-Ira Panourgia](https://www.eleniirapanourgia.com): "Sound, Art and Ecology -- Practice #2"
 - 31.05.23 
   - Ula Przybylska et al.: "SWARM" (Online, Zoomlink will be shared via Kerio Calendar)
-  - *Susanne Richter: mowee (EXIST)*
+  - Susanne Richter: mowee (EXIST)
 - 07.06.23 
   - [Anna Xambo](http://annaxambo.me): "About NIME, NIMEness, and Speculative Futures" (Online, Zoomlink will be shared via Kerio Calendar)
 - 14.06.23 
@@ -47,11 +47,11 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
 - 27.06.23 
+  - CC1 Project presentations
+- 04.07.23 
   ```diff
-  - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/06/27, 14:15-15:45)
+  - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/07/04, 14:15-15:45)
   ```
-- 05.07.23 
-  - CC1 Presentations
 - 12.07.23
   ```diff
   - **Summerparty** => Class 22/23 is responsible for the event!!
