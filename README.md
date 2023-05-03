@@ -46,7 +46,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Knuth Möde: "Pre-Viz with Unreal Engine"
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
-  - *Antonia Nestler: ["Rekonstruktionen"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)*
+  - Antonia Nestler: ["Rekonstruktionen"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)
 - 28.06.23 
   - *CC1 Project presentations*
 - 04.07.23 
