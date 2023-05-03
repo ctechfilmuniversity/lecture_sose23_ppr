@@ -48,7 +48,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
   - Antonia Nestler: ["Rekonstruktionen"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)
 - 28.06.23 
-  - CC1 Projektpräsentationen / Project Pitches
+  - *Project Pitches / Audience Design?*
 - 04.07.23 
   ```diff
   - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/07/04, 14:15-15:45)
