@@ -22,12 +22,12 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
 - 12.04.23
   - Introduction to the seminar
   - Sehsüchte coordination (Andreea, Vivien)
-  - Mandy Peterat: "GEÄST"
+  - Mandy Peterat: ["GEÄST"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)
 - 26.04.23
   - Christine Reeh-Peters: [Fabulation for Future](https://www.fabulationforfuture.net)
 - 03.05.23
   - Angela & Lara: Pitching Training -- Social Media Project
-  - Mortimer Cerny: 3 Sat Abschlussfilm
+  - Mortimer Cerny: ["Ewigkeit in einem Traum"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)
 - 09.05.23
   ```diff
   - **Alternative Seminar** -- "Ethik in der Digitalisierung" (R 5104, Tuesday 23/05/09, 14:15-15:45)
@@ -41,7 +41,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - Susanne Richter: mowee (EXIST)
 - 07.06.23 
   - [Anna Xambo](http://annaxambo.me): "About NIME, NIMEness, and Speculative Futures" (Online, Zoomlink will be shared via Kerio Calendar)
-  - *Antonia Nestler: "Rekonstruktionen*
+  - *Antonia Nestler: ["Rekonstruktionen"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)*
 - 14.06.23 
   - Lisa Passing: "Ghostlike"
   - Knuth Möde: "Pre-Viz with Unreal Engine"
