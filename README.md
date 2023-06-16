@@ -43,6 +43,8 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - [Anna Xambo](http://annaxambo.me): "About NIME, NIMEness, and Speculative Futures" (Online, Zoomlink will be shared via Kerio Calendar)
 - 14.06.23 
   - Lisa Passing: "Ghostlike"
+  - Aliena Leonhard: "Relionate"
+  - Paul Rieth: "Audience Design"
 - 21.06.23 
   - Garri Steba et. al: "Hybrider digital-analoger Synth für Drone-Erzeugung"
   - Antonia Nestler: ["Rekonstruktionen"](https://github.com/ctechfilmuniversity/lecture_sose23_ppr/tree/main/pitches)
