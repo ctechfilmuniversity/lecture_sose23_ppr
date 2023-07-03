@@ -53,7 +53,7 @@ Lecturer: Lara Frank | l.frank@filmuniversitaet.de
   - TBD
 - 04.07.23 
   ```diff
-  - **Alterantive seminar** -- "KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/07/04, 14:15-15:45)
+  - **Alterantive seminar** -- "Prof. Dr. Uwe Eisenbeis: KI in der Wertschöpfungskette von Medienunternehmen und deren Implikationen auf das Gechäftsmodell" (R 5104, Tuesday 23/07/04, 14:15-15:45)
   ```
 - 12.07.23
   ```diff
